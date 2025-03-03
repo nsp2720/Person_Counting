@@ -1,3 +1,4 @@
+This repo is for person detection and counting in real camera feed by using yolov8 model. See Follwing files and its specifications
 
 detect_web_cam.py   :   This script uses a YOLOv8 model to detect objects in a webcam feed and overlays a semi-transparent custom bounding box (box.png) on detected objects. The processed frames are optionally streamed to an RTMP server using FFmpeg.
 
