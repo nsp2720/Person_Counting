@@ -25,3 +25,15 @@ For Running all this files use cmd:
 
 python3 filename.py
 
+##To make environment use requirements.txt file.
+
+python -m venv env_name
+
+##to activate the environment
+
+source env_name/bin/activate
+
+
+by abobe cmd environment  will be activated then use cmd like:
+
+python3 filename.py
